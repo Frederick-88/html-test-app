@@ -1,0 +1,45 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+main {
+  background: lightcoral;
+  padding: 50px;
+}
+
+.divider {
+  margin-top: 15px;
+}
+
+.navbar {
+  background: lightblue;
+  padding: 10px;
+}
+
+.content-container {
+  display: flex;
+  height: 100vh;
+}
+
+.content {
+  background: lightgreen;
+  padding: 10px;
+  width: calc(100% - 200px);
+}
+
+.sidebar {
+  background: lightyellow;
+  padding: 10px;
+  width: 200px;
+}
+
+/* Codepen classes (can ignore) */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h4 {
+  margin: 0;
+}
